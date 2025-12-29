@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+results/outputs/*.json
+results/figures/*.png
